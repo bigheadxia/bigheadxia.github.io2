@@ -2583,8 +2583,8 @@ hr {
   float: right;
 }
 .menu {
-  float: right;
-  margin: 8px 0 0 0;
+  /*float: right;*/
+  margin: 8px 0 0 85px;
 }
 @media (max-width: 767px) {
   .menu {
